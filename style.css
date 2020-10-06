@@ -1,0 +1,24 @@
+header {
+    height: 100vh;
+    background-image: url('/pexels-philippe-donn-1169754.jpg');
+    background-size: cover;
+}
+
+.header-2 {
+    height: 100vh;
+}
+
+img {
+    transition: 3s;
+}
+
+img:hover {
+    transition: 3s;
+    transform: rotate(360deg);
+}
+
+button {
+    width: 100px;
+    padding: 15px;
+    margin-top: 5px !important;
+}
